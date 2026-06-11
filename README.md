@@ -389,6 +389,7 @@ logEach( '%f', x4 );
 
 ## See Also
 
+-   <span class="package-name">[`@stdlib/random-poisson`][@stdlib/random/poisson]</span><span class="delimiter">: </span><span class="description">generate pseudorandom numbers drawn from a Poisson distribution.</span>
 -   <span class="package-name">[`@stdlib/random-base/poisson`][@stdlib/random/base/poisson]</span><span class="delimiter">: </span><span class="description">Poisson distributed random numbers.</span>
 -   <span class="package-name">[`@stdlib/random-strided/poisson`][@stdlib/random/strided/poisson]</span><span class="delimiter">: </span><span class="description">fill a strided array with pseudorandom numbers drawn from a Poisson distribution.</span>
 
@@ -477,6 +478,8 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 [@stdlib/array/float64]: https://github.com/stdlib-js/array-float64
 
 <!-- <related-links> -->
+
+[@stdlib/random/poisson]: https://github.com/stdlib-js/random-poisson
 
 [@stdlib/random/strided/poisson]: https://github.com/stdlib-js/random-strided-poisson
 
